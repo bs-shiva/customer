@@ -26,11 +26,12 @@
 	</properties>
 	
 <!--     <distributionManagement>
-        <repository>
-            <id>maven-releases</id>
-            <url>http://repourl/repository/maven-releases/</url>
-        </repository>
-    </distributionManagement>     -->
+  <repository>
+    <id>customer-customer</id>
+    <name>customer-customer</name>
+    <url>https://customer-948676469348.d.codeartifact.us-east-2.amazonaws.com/maven/customer/</url>
+  </repository>
+</distributionManagement>    -->
 	
 	<dependencies>
 		<dependency>
